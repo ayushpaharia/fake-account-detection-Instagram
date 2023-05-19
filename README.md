@@ -49,8 +49,6 @@ For every algorithm, in addition to the trainining and the testing phase, has be
 - Receiver Operating Characteristic / ROC Curve
 - Classification Report
 
-Eventually, we created a telegram bot with the best algorithm of the two datasets. We embodied it in the bot and run the script. Once started you only have to send it a username and it will verify the authenticity of the account and send you the reply with the response you search.
-
 <!-- GETTING STARTED -->
 
 ## 🔨 Getting Started
